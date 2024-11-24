@@ -25,7 +25,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cotamilhas&show_icons=true&locale=en&layout=compact" alt="cotamilhas" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cotamilhas&show_icons=true&locale=en" alt="cotamilhas" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cotamilhas&theme=dark&show_icons=false&locale=en" alt="cotamilhas" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cotamilhas&" alt="cotamilhas" /></p>
 
