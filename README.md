@@ -18,7 +18,6 @@
 <p>
 <a href="https://twitter.com/cotamilhas" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" height="40"></a>
 <a href="https://instagram.com/yomilhas" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40"></a>
-<a href="https://www.youtube.com/@yomilhas" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="40" height="40"></a>
 </p>
 </div>
 
