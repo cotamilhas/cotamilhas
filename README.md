@@ -1,36 +1,26 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Henrique's Profile</title>
-</head>
-<body>
+<h1 align="center">Hi, I'm Henrique</h1>
+<h3 align="center">A random developer from Portugal</h3>
 
-    <h1 align="center">Hi, I'm Henrique</h1>
-    <h3 align="center">A random developer from Portugal</h3>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=cotamilhas&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"></p>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cotamilhas&theme=onedark" alt="GitHub Trophy"></a></p>
+<p align="center"><a href="https://twitter.com/cotamilhas" target="blank"><img src="https://img.shields.io/twitter/follow/cotamilhas?logo=twitter&style=for-the-badge" alt="Twitter Follow"></a></p>
+<div>
+<h3>About Me</h3>
+<ul>
+<li>I’m currently working on <a href="https://github.com/cotamilhas/phpYouTube">phpYouTube</a> and <a href="https://github.com/cotamilhas/weatherClient">weatherClient</a></li>
+<li>I’m currently learning <strong>PHP and JavaScript</strong></li>
+<li>E-Mail: <strong>hamilheiro@gmail.com</strong></li>
+</ul>
+</div>
 
-    <p align="center"><img src="https://komarev.com/ghpvc/?username=cotamilhas&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"></p>
-    <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cotamilhas&theme=onedark" alt="GitHub Trophy"></a></p>
-    <p align="center"><a href="https://twitter.com/cotamilhas" target="blank"><img src="https://img.shields.io/twitter/follow/cotamilhas?logo=twitter&style=for-the-badge" alt="Twitter Follow"></a></p>
-
-    <div>
-        <h3>About Me</h3>
-        <ul>
-            <li>🔭 I’m currently working on <a href="https://github.com/cotamilhas/phpYouTube">phpYouTube</a></li>
-            <li>🌱 I’m currently learning <strong>PHP and JavaScript</strong></li>
-            <li>📫 How to reach me: <strong>hamilheiro@gmail.com</strong></li>
-        </ul>
-    </div>
-
-    <div>
-        <h3>Connect with me:</h3>
-        <p>
-            <a href="https://twitter.com/cotamilhas" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" height="40"></a>
-            <a href="https://instagram.com/yomilhas" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40"></a>
-            <a href="https://www.youtube.com/@yomilhas" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="40" height="40"></a>
-        </p>
-    </div>
+<div>
+<h3>Connect with me:</h3>
+<p>
+<a href="https://twitter.com/cotamilhas" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" height="40"></a>
+<a href="https://instagram.com/yomilhas" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40"></a>
+<a href="https://www.youtube.com/@yomilhas" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="40" height="40"></a>
+</p>
+</div>
 
 <div>
 <h3>Languages and Tools:</h3>
@@ -52,6 +42,3 @@
 </div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cotamilhas&theme=dark" alt="GitHub Streak Stats"></p>
-
-</body>
-</html>
