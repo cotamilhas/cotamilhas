@@ -37,8 +37,8 @@
 </p>
 </div>
 <div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cotamilhas&show_icons=true&locale=en&layout=compact" alt="Top Languages"></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cotamilhas&theme=dark" alt="GitHub Streak Stats"></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cotamilhas&theme=dark&show_icons=false&locale=en" alt="GitHub Stats"></p>
 </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cotamilhas&theme=dark" alt="GitHub Streak Stats"></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cotamilhas&show_icons=true&locale=en&layout=compact" alt="Top Languages"></p>
