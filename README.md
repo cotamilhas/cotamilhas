@@ -11,9 +11,8 @@
 </p>
 
 ---
-
-### 🛠️ Languages and Tools
-<p>
+<h1 align="center">Languages and Tools</h1>
+<p align="center">
   <a href="https://www.cprogramming.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40">
   </a>
@@ -53,5 +52,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cotamilhas&theme=dark&show_icons=false&locale=en" alt="GitHub Stats">
 </p>
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cotamilhas&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cotamilhas&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages">
 </p>
