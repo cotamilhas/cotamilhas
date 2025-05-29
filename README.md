@@ -1,4 +1,3 @@
-<h1 align="center">GitHub Stats</h1>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cotamilhas&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages">
 </p>
